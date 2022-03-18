@@ -28,11 +28,11 @@ var data = [
 
 #### Preset/unfiltered table
 
-![table_filtered](https://github.com/natedlewis/UFOs/blob/main/results/table_1.png?raw=true)
+![table_unfiltered](https://github.com/natedlewis/UFOs/blob/main/results/table_2.png?raw=true)
 
 #### Table reacting to user input and adjusting to project only UFO sightings within La Mesa
 
-![table_unfiltered](https://github.com/natedlewis/UFOs/blob/main/results/table_2.png?raw=true)
+![table_filtered](https://github.com/natedlewis/UFOs/blob/main/results/table_1.png?raw=true)
 > Filters may trigger indivually upon pressing enter, or just clicking off the input box. To remove a filter, simply delete any text within an input box, and press enter. They are case-sensitve. 
 
 
