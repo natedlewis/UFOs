@@ -7,7 +7,7 @@ In this project, we are working with Dana to create an interactive webpage that 
 ![storyboard](https://github.com/natedlewis/UFOs/blob/main/results/storyboard.png?raw=true)
 
 
-#### Single value within array
+#### Single value within JavaScript array
 ```java
 var data = [
   {
@@ -22,15 +22,22 @@ var data = [
 ```
 
 ## Results
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
+#### Navigation bar, page header, and article
+![title](https://github.com/natedlewis/UFOs/blob/main/results/title.png?raw=true)
 
-![title](https://github.com/natedlewis/UFOs/blob/main/title.png?raw=true)
-![table_unfiltered](https://github.com/natedlewis/UFOs/blob/main/img_1.png?raw=true)
-![table_filtered](https://github.com/natedlewis/UFOs/blob/main/img_2.png?raw=true)
+#### Preset/unfiltered table
 
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+![table_filtered](https://github.com/natedlewis/UFOs/blob/main/results/table_1.png?raw=true)
+
+#### Table reacting to user input and adjusting to project only UFO sightings within La Mesa
+
+![table_unfiltered](https://github.com/natedlewis/UFOs/blob/main/results/table_2.png?raw=true)
+> Filters may trigger indivually upon pressing enter, or just clicking off the input box. To remove a filter, simply delete any text within an input box, and press enter. They are case-sensitve. 
+
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+One drawback to this new deisgn is that we're forced to manually input text into the input boxes. This desigen is inconvinent, and may lead to many spelling errors, or issues with inputting the proper date format. This problem would be an easy fix with futher customization. Integtating drop-down lists would ensure better usability for readers. Reworking the date filter box could trigger a drop down calender where users have the option to input a range of dates, or a single value.
+
+
 
